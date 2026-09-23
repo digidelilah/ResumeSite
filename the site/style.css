@@ -31,3 +31,14 @@ body {
 }
 
 /*the title*/
+.title {
+  font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 100px;
+  color: #5bbaa8;
+
+  display: flex;
+  padding: 10px;
+}
